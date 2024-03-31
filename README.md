@@ -1,6 +1,6 @@
 # Simple Go Web Server
 
-This is a simple Go web server that demonstrates how to create a basic HTTP server using the Go programming language.
+This is a simple Go web server that demonstrates how to create a basic HTTP server using the Go programming language..
 
 ## Prerequisites
 
